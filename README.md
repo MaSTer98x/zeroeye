@@ -17,7 +17,8 @@ version='2.0'
 forwho='i made it for my old walkers'
 futur_work=True
 why='yah , i think so but soemthing different'
-wanna_music="https://www.youtube.com/watch?v=H4-5PFdr0GQ" # Subscibe To PsycoM 
+wanna_music="
+https://youtube.com/channel/UCmBrixD2JFWyR7zI1KuOuUg # Subscibe To PsycoM 
 ```
 *Need*
 ----
